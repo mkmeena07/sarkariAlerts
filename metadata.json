@@ -1,0 +1,5 @@
+{
+  "name": "Sarkari Alert Clone",
+  "description": "A web application that mimics the layout and functionality of a government job alert portal, complete with a simple admin panel to publish new content.",
+  "requestFramePermissions": []
+}
